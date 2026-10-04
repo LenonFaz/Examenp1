@@ -1,0 +1,7 @@
+C:\Users\Lenone\Documents\asdad\PROMEDIO\obj\Debug\PROMEDIO.csproj.AssemblyReference.cache
+C:\Users\Lenone\Documents\asdad\PROMEDIO\obj\Debug\PROMEDIO.csproj.CoreCompileInputs.cache
+C:\Users\Lenone\Documents\asdad\PROMEDIO\bin\Debug\PROMEDIO.exe.config
+C:\Users\Lenone\Documents\asdad\PROMEDIO\bin\Debug\PROMEDIO.exe
+C:\Users\Lenone\Documents\asdad\PROMEDIO\bin\Debug\PROMEDIO.pdb
+C:\Users\Lenone\Documents\asdad\PROMEDIO\obj\Debug\PROMEDIO.exe
+C:\Users\Lenone\Documents\asdad\PROMEDIO\obj\Debug\PROMEDIO.pdb
